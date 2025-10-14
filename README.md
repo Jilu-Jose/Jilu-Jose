@@ -2,15 +2,11 @@
 <h3 align="center">An aspiring Data Scientist & MLOps Engineer</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jilu-jose&label=Profile%20views&color=0e75b6&style=flat" alt="jilu-jose" />
+  <img src="https://komarev.com/ghpvc/?username=jilu-jose&label=Profile%20views&color=0e75b6&style=flat" alt="jilu-jose" style="border-radius:120px"/>
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jilu-jose&theme=tokyonight" alt="jilu-jose" style="margin-right:100px" /></a>
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/@jilu_p_jose" target="blank"><img src="https://img.shields.io/twitter/follow/@jilu_p_jose?logo=twitter&style=for-the-badge&color=1DA1F2" alt="@jilu_p_jose" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
