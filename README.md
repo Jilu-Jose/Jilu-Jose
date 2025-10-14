@@ -17,10 +17,10 @@
 <p align="left">
 <a href="https://twitter.com/@jilu_p_jose" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jilu_p_jose" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jilu. p. jose" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jilu. p. jose" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jilu. p . jose" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jilu. p . jose" height="30" width="40" /></a>
-  
+<a href="https://stackoverflow.com/users/jilu. p . jose" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jilu. p . jose" height="30" width="40" /></a>  
 <a href="https://kaggle.com/jilu. p. jose" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jilu. p. jose" height="30" width="40" /></a>
 <a href="https://instagram.com/jilu_p_jose" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jilu_p_jose" height="30" width="40" /></a>
+
 <a href="https://www.codechef.com/users/jilu_jose004" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jilu_jose004" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@jilupjose111" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@jilupjose111" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/jilupjose111" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jilupjose111" height="30" width="40" /></a>
