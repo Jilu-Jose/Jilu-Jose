@@ -68,8 +68,8 @@
 </p>
 
  <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jilu-jose&show_icons=true&locale=en&theme=tokyonight" alt="jilu-jose" width="500" height="500" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jilu-jose&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jilu-jose" width="500" height="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jilu-jose&show_icons=true&locale=en&theme=tokyonight" alt="jilu-jose" width="400" height="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jilu-jose&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jilu-jose" width="400" height="400"/>
 </div>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jilu-jose&theme=tokyonight" alt="jilu-jose" width="500" height="500"/>
