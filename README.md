@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jilu-jose&label=Profile%20views&color=0e75b6&style=flat" alt="jilu-jose" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jilu-jose" alt="jilu-jose" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jilu-jose&theme=dark" alt="jilu-jose" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@jilu_p_jose" target="blank"><img src="https://img.shields.io/twitter/follow/@jilu_p_jose?logo=twitter&style=for-the-badge" alt="@jilu_p_jose" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@jilu_p_jose" target="blank"><img src="https://img.shields.io/twitter/follow/@jilu_p_jose?logo=twitter&style=for-the-badge&color=1DA1F2" alt="@jilu_p_jose" /></a> </p>
 
 - 📫 How to reach me **jilupjose2004@gmail.com**
 
