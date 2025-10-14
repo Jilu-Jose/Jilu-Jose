@@ -15,6 +15,14 @@
 
 - 📫 How to reach me **jilupjose2004@gmail.com**
 
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jilu-jose&show_icons=true&locale=en&theme=tokyonight" alt="jilu-jose" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jilu-jose&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jilu-jose" />
+</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jilu-jose&theme=tokyonight" alt="jilu-jose" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@jilu_p_jose" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jilu_p_jose" height="30" width="40" /></a>
@@ -68,10 +76,4 @@
 <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jilu-jose&show_icons=true&locale=en&theme=tokyonight" alt="jilu-jose" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jilu-jose&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jilu-jose" />
-</div>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jilu-jose&theme=tokyonight" alt="jilu-jose" />
-</p>
+
