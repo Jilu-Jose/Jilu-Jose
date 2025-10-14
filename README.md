@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jilu-jose&theme=tokyonight" alt="jilu-jose" style="margin-right:100px" /></a>
+  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=jilu-jose&theme=tokyonight" alt="jilu-jose" style="margin-right:100px" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
