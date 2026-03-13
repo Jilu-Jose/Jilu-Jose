@@ -214,7 +214,32 @@ me.say_hi()
 ## Contribution Activity
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jilu-jose&theme=tokyo-night&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+
+<!-- Galactic Contribution Galaxy — animated SVG (stars, orbs, grid, language bars) -->
+<!-- Step 1: Upload galaxy-contrib.svg to your profile repo root (jilu-jose/jilu-jose) -->
+<!-- Step 2: The line below will render it automatically -->
+<img src="./galaxy-contrib.svg" alt="Galactic Contribution Galaxy" width="100%"/>
+
+<br/><br/>
+
+<!-- Activity graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jilu-jose&theme=tokyo-night&bg_color=0d0a1e&color=a78bfa&line=7c3aed&point=c89fff&area=true&area_color=5030a0&hide_border=true&radius=6" />
+
+<br/><br/>
+
+<!-- Profile summary cards -->
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jilu-jose&theme=tokyonight" />
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jilu-jose&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jilu-jose&theme=tokyonight" />
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jilu-jose&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jilu-jose&theme=tokyonight&utcOffset=5.5" />
+
 </div>
 
 ---
